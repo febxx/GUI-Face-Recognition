@@ -1,60 +1,6 @@
 {
     "model": "2022-07-15T08:23:12.536559Z",
     "pegawai": {
-        "Febri Aji Maulana": {
-            "tanggal": "2022-07-27",
-            "masuk": "21:47:21",
-            "pulang": "00:00:00",
-            "suhu": "35.7",
-            "keterangan": "Telat",
-            "nip": "361955401034",
-            "nama": "Febri Aji Maulana",
-            "jabatan": "Anggota",
-            "shift": "23:00:00"
-        },
-        "Agung Wahyu": {
-            "tanggal": "2022-07-13",
-            "masuk": "13:23:03",
-            "pulang": "00:00:00",
-            "suhu": "35.7",
-            "keterangan": "Hadir",
-            "nip": "123123",
-            "nama": "Agung Wahyu",
-            "jabatan": "Ketua Tim",
-            "shift": "23:00:00"
-        },
-        "Avina Widodo": {
-            "tanggal": "2022-07-13",
-            "masuk": "13:30:25",
-            "pulang": "00:00:00",
-            "suhu": "35.7",
-            "keterangan": "Telat",
-            "nip": "9992088",
-            "nama": "Avina Widodo",
-            "jabatan": "Anggota",
-            "shift": "16:00:00"
-        },
-        "Obama": {
-            "tanggal": "2022-07-11",
-            "masuk": "15:50:04",
-            "pulang": "00:00:00",
-            "suhu": "35.7",
-            "keterangan": "Telat",
-            "nip": "112128",
-            "nama": "Obama",
-            "jabatan": "Direktur Produksi",
-            "shift": "16:00:00"
-        },
-        "Messi": {
-            "tanggal": "2022-07-13",
-            "masuk": "13:30:07",
-            "pulang": "00:00:00",
-            "suhu": "35.7",
-            "keterangan": "Hadir",
-            "nip": "9992088",
-            "nama": "Messi",
-            "jabatan": "Anggota",
-            "shift": "23:00:00"
-        }
+
     }
 }
